@@ -8,7 +8,7 @@ module.exports = class LinkedList{
   }
 
   /**
-    * @param: Element to be added
+    * @param: Element to be added to linked list
     * @return: Nada (Linked List has added element at end)
   */
 
