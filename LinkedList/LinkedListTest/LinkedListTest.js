@@ -31,9 +31,16 @@ function testInsertAt0(){
 }
 
 /**
-  * * * * * * insertAt() TEST * * * * * *
+  * * * * * * removeFrom() TEST * * * * * *
 */
 function testRemoveFrom(){
+
+}
+
+/**
+  * * * * * * remove() TEST * * * * * *
+*/
+function testRemove(){
 
 }
 
